@@ -1,0 +1,4 @@
+name: LDNoLootMob
+version: '${project.version}'
+main: me.leddev.nolootmob.Main
+api-version: '1.16'

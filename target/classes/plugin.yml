@@ -1,0 +1,4 @@
+name: LDNoLootMob
+version: '1.0'
+main: me.leddev.nolootmob.Main
+api-version: '1.16'
